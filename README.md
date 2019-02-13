@@ -4,7 +4,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/guillaumebriday)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68286221-cb5f-4960-834f-0ae250395090/deploy-status)](https://app.netlify.com/sites/todolist-frontend-vuejs/deploys)
 
-> Frontend for https://github.com/guillaumebriday/todolist-backend-laravel app, built for a serie of articles on my [blog](https://guillaumebriday.fr/).
+> Frontend for  https://github.com/ecofic/ionic-todo-app.git, built for a serie of articles on my [blog](https://guillaumebriday.fr/).
 
 The purpose of this repository is to consume API, provide by [a Laravel Application](https://github.com/guillaumebriday/todolist-backend-laravel), with the [Vue.js](https://vuejs.org) JavaScript front-end framework.
 
@@ -73,7 +73,7 @@ This application is hosted on [Netlify](https://www.netlify.com/) and available 
 
 ## More details
 
-More details are available on my blog post : [https://guillaumebriday.fr/laravel-vuejs-faire-une-todo-list-partie-1-presentation-et-objectifs](https://guillaumebriday.fr/laravel-vuejs-faire-une-todo-list-partie-1-presentation-et-objectifs) (French).
+
 
 ## Contributing
 
