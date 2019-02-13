@@ -1,0 +1,7 @@
+[build]
+  command = "yarn production"
+  publish = "dist"
+
+[build.environment]
+  CI = "true"
+  BASE_URL = "https://todolist-api.guillaumebriday.xyz"
